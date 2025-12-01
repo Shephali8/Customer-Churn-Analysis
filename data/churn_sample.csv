@@ -1,0 +1,11 @@
+CustomerID,Gender,Age,SubscriptionType,MonthlyCharges,Tenure,ContractType,PaymentMethod,Churn
+C001,Female,32,Premium,1200,12,Annual,Credit Card,No
+C002,Male,45,Basic,600,5,Monthly,UPI,Yes
+C003,Female,29,Standard,800,8,Monthly,Debit Card,No
+C004,Male,38,Premium,1200,3,Monthly,UPI,Yes
+C005,Female,50,Basic,600,15,Annual,Credit Card,No
+C006,Male,41,Standard,800,6,Monthly,Debit Card,Yes
+C007,Female,27,Basic,600,2,Monthly,UPI,Yes
+C008,Male,33,Standard,800,9,Annual,Credit Card,No
+C009,Female,36,Premium,1200,4,Monthly,Debit Card,Yes
+C010,Male,40,Basic,600,10,Monthly,UPI,No
