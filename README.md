@@ -50,3 +50,9 @@ Customer-Churn-Analysis/
 │  ├─ customer_churn_sample.csv
 └─ notebooks/
    ├─ churn_eda.ipynb
+
+---
+
+## Business Outcome
+
+Provides a clear view of churn drivers and risk segments, supporting targeted retention campaigns.
